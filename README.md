@@ -1,6 +1,6 @@
 # BIENY at your service 
 
-- I'm 4th year CS student from the Technological Institute of the Philippines  
+- I'm a graduate of Computer Science from the Technological Institute of the Philippines
 - Experience and resilience makes the best output 
 - Willing to go further beyond through adapting technologies
 
