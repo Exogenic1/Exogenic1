@@ -1,4 +1,4 @@
-# BIENY at your service 
+# BIEN: CONTACT ME
 
 - I'm a graduate of Computer Science from the Technological Institute of the Philippines
 - Experience and resilience makes the best output 
